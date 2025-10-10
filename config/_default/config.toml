@@ -1,7 +1,7 @@
 # Change baseurl before deploy
-baseurl= "https://wtdragun.github.io/"
+baseurl= "https://wtdragun.com/"
 languageCode= "zh-tw"
-title= "WTDragun"
+title= "龍與尾巴亭"
 
 
 # Theme i18n support
@@ -17,3 +17,7 @@ disqusShortname = "https-wtdragun-github-io"
 
 [pagination]
 pagerSize = 5
+
+[services]
+  [services.googleAnalytics]
+    id = "G-9B1DWXB9V4"
